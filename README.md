@@ -14,8 +14,10 @@
 ## Courses
 - Software Testing Masterclass (2023) - From Novice to Expert  
 - Java dla Testera  
+
 ## Experience
 - Colt 1/2023 
+
 ## Books read
 - The complete Software Tester  
 
