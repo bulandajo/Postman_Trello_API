@@ -6,6 +6,7 @@
 - Postman - Testing tool for REST API  
 - Jira, Trello - Issue tracking and project management tool for developers  
 - Github  
+- Java (in progress)  
 
 ## Tech Skills
 - Creating test cases  
@@ -13,7 +14,7 @@
 
 ## Courses
 - Software Testing Masterclass (2023) - From Novice to Expert  
-- Java dla Testera  
+- Java dla Testera (in progress)   
 
 ## Experience
 - Colt 1/2023 
