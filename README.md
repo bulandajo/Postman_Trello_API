@@ -27,6 +27,11 @@
 - Testuj, Dziewczyno!  
 
 ## Blogs read
+- testerzy.pl
+- remigiuszbednarczyk.pl
+- wyszkolewas.com.pl
+- bugfreeblog.com
+- blog.testlodge.com
 
 ## My Test Documentation
 
